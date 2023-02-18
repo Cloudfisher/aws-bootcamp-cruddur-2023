@@ -7,6 +7,10 @@ I was able to follow through the tutorial and get AWS CLI working perfectly.
 ![Installing AWS CLI](assets/week-0%20AWS%20CLI.png)
 
 
+### Logical diagram of cruddur on lucid
+[I followed the intrsutions give in the tutorial to recreate a logical diagram for cruddur app](https://lucid.app/lucidchart/f8a46cae-1975-4f21-980a-3da10e6a4b68/edit?viewport_loc=-137%2C-705%2C2405%2C1098%2C0_0&invitationId=inv_5b8ee3dc-72d6-4e0c-a9ef-f1db9c3112b9)
+
+
 
 
 
