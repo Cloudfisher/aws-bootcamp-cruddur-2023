@@ -13,6 +13,10 @@ I was able to follow through the tutorial and get AWS CLI working perfectly.
 
 
 
+### AWS Budget
+This exercise was unsucceful for me as i was getting an error response.
+![AWS budget](week-0%20budget%20error.png)
+
 
 
 
