@@ -13,15 +13,20 @@ I was able to follow through the tutorial and get AWS CLI working perfectly.
 
 
 
-### AWS Budget
+### Create AWS Budget
 This exercise was unsuccesful for me as i was getting an error response.
 ![AWS budget](assets/week-0%20budget%20error.png)
 
 
 
-### alarm settin
+### Create alarm config
 I was unsuccesful in an attempt to set up an alarm due to the following error i get.
 ![AWS alarm](assets/week-o%20alarm.config%20error.png)
+
+
+
+### Create a Budget Alarm
+![image of budget alarm on credit](assets/budget%20image.png)
 
 
 
