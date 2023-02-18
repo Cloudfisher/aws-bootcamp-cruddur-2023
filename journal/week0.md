@@ -14,8 +14,18 @@ I was able to follow through the tutorial and get AWS CLI working perfectly.
 
 
 ### AWS Budget
-This exercise was unsucceful for me as i was getting an error response.
-![AWS budget](week-0%20budget%20error.png)
+This exercise was unsuccesful for me as i was getting an error response.
+![AWS budget](assets/week-0%20budget%20error.png)
+
+
+
+### alarm settin
+I was unsuccesful in an attempt to set up an alarm due to the following error i get.
+![AWS alarm](assets/week-o%20alarm.config%20error.png)
+
+
+
+
 
 
 
